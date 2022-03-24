@@ -1,1 +1,2 @@
 # homework2
+用Java的Profile工具探究插入排序中什么操作最耗时，并用Markdown写出过程和结论。
